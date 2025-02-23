@@ -33,6 +33,31 @@ I'm a Software Engineer based in Santa Monica, CA.
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
+## 🎶 My Musical Journey
+
+Take a trip down memory lane with some of my past bands and albums!
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://www.davelaflam.com/images/miller-lane--family-tree.jpg" width="200px" /></td>
+      <td><img src="https://www.davelaflam.com/images/shayne-berry.jpg" width="200px" /></td>
+      <td><img src="https://www.davelaflam.com/images/luans-gift.png" width="200px" /></td>
+      <td><img src="https://www.davelaflam.com/images/el-camino--lotus.png" width="200px" /></td>
+      <td><img src="https://www.davelaflam.com/images/selling-drama.jpg" width="200px" /></td>
+    </tr>
+    <tr>
+      <td><b>El Camino - Lotus</b></td>
+      <td><b>Luan's Gift</b></td>
+      <td><b>Miller Lane - Family Tree</b></td>
+      <td><b>Selling Drama</b></td>
+      <td><b>Shayne Berry</b></td>
+    </tr>
+  </table>
+</div>
+
+🎧 Check out more on my [Music Website](https://www.davelaflam.com/music)
+
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davelaflam)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://www.davelaflam.com)
