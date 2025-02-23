@@ -56,7 +56,7 @@ Take a trip down memory lane with some of my past bands and albums!
   </table>
 </div>
 
-🎧 Check out more on my [Music Website](https://www.davelaflam.com/music)
+🎧 Full Discography available on [My Music Website](https://www.davelaflam.com/music)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davelaflam)
