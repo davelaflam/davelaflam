@@ -40,11 +40,11 @@ Take a trip down memory lane with some of my past bands and albums!
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://www.davelaflam.com/images/miller-lane--family-tree.jpg" width="200px" /></td>
-      <td><img src="https://www.davelaflam.com/images/shayne-berry.jpg" width="200px" /></td>
-      <td><img src="https://www.davelaflam.com/images/luans-gift.png" width="200px" /></td>
-      <td><img src="https://www.davelaflam.com/images/el-camino--lotus.png" width="200px" /></td>
-      <td><img src="https://www.davelaflam.com/images/selling-drama.jpg" width="200px" /></td>
+      <td><img src="/images/miller-lane--family-tree.jpg" width="200px" /></td>
+      <td><img src="/images/shayne-berry.jpg" width="200px" /></td>
+      <td><img src="/images/luans-gift.png" width="200px" /></td>
+      <td><img src="/images/el-camino--lotus.png" width="200px" /></td>
+      <td><img src="/images/selling-drama.jpg" width="200px" /></td>
     </tr>
     <tr>
       <td><b>El Camino - Lotus</b></td>
