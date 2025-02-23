@@ -47,11 +47,11 @@ Take a trip down memory lane with some of my past bands and albums!
       <td><img src="/images/selling-drama.jpg" width="200px" /></td>
     </tr>
     <tr>
-      <td><b>El Camino - Lotus</b></td>
-      <td><b>Luan's Gift</b></td>
       <td><b>Miller Lane - Family Tree</b></td>
-      <td><b>Selling Drama</b></td>
       <td><b>Shayne Berry</b></td>
+      <td><b>Luan's Gift</b></td>
+      <td><b>El Camino - Lotus</b></td>
+      <td><b>Selling Drama</b></td>
     </tr>
   </table>
 </div>
