@@ -17,6 +17,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 
 ### 🌐 Frontend Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-%23323330.svg?style=flat-square&logo=pinia&logoColor=%F7DF1E)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
@@ -32,7 +33,6 @@ I'm a Software Engineer based in Santa Monica, CA.
 
 ---
 
-### 🤖 AI/ML & Intelligent Systems
 ### 🤖 AI/ML & Intelligent Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-%234EA94B.svg?style=flat-square&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300BFFF.svg?style=flat-square&logo=pinecone&logoColor=white)
