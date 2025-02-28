@@ -5,6 +5,21 @@ I'm a Software Engineer based in Santa Monica, CA.
 
 ## 🔧 Technologies & Tools
 
+### 🤖 AI/ML & Intelligent Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=flat-square&logo=pinecone&logoColor=00BFFF)
+![RAG](https://img.shields.io/badge/RAG-%23000000.svg?style=flat-square&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-%23000000.svg?style=flat-square&logo=ai&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-%23000000.svg?style=flat-square&logo=machine-learning&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%23000000.svg?style=flat-square&logo=nlp&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23000000.svg?style=flat-square&logo=deep-learning&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=flat-square&logo=generative-ai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCC00.svg?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
 ### 🛠️ Backend & Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
