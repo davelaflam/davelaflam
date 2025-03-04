@@ -44,6 +44,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%234B0082.svg?style=flat-square&logo=magic&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCC00.svg?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
