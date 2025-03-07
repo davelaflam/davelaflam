@@ -25,6 +25,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 ![ShadCN Vue](https://img.shields.io/badge/ShadCN%20Vue-%23000000.svg?style=flat-square&logo=vue.js&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 
 ---
 
@@ -54,6 +55,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 ### ✅ Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?style=flat-square&logo=chai&logoColor=white)
 ![Ghost Inspector](https://img.shields.io/badge/Ghost%20Inspector-000000?style=flat-square&logo=ghost-inspector&logoColor=white)
 
 ---
@@ -70,7 +72,6 @@ I'm a Software Engineer based in Santa Monica, CA.
 ### ⚙️ CI/CD & DevOps
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23000000.svg?style=flat-square&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 
 ---
 
