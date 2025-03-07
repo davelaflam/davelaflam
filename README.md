@@ -19,6 +19,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-%23EFB914.svg?style=flat-square&logo=pineapple&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![ShadCN Vue](https://img.shields.io/badge/ShadCN%20Vue-%23000000.svg?style=flat-square&logo=vue.js&logoColor=white)
