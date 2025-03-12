@@ -10,6 +10,8 @@ I'm a Software Engineer based in Santa Monica, CA.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Firestore](https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%230073CF.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Localstack](https://img.shields.io/badge/Localstack-FFFFFF?style=flat-square&logo=localstack&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
