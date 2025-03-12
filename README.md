@@ -72,6 +72,7 @@ I'm a Software Engineer based in Santa Monica, CA.
 ### ⚙️ CI/CD & DevOps
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23000000.svg?style=flat-square&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
