@@ -5,8 +5,19 @@ I'm a Software Engineer based in Santa Monica, CA.
 
 ## 🔧 Technologies & Tools
 
+### ☁️ AWS
+![API Gateway](https://img.shields.io/badge/API%20Gateway-%23FF4F00.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%230073CF.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-%23FF4F00.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%234F4F4F.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F00.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-%234F4F4F.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%230073CF.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-%23FF4F00.svg?style=flat-square&logo=amazonaws&logoColor=white)
+
 ### 🛠️ Backend & Cloud Services
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
